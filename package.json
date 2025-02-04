@@ -1,0 +1,15 @@
+{
+  "name": "get-yt-transcription-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "youtube-transcript-api": "^1.1.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "keywords": [],
+  "author": "Rizwan Shaikh",
+  "license": "ISC"
+}
